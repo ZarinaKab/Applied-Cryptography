@@ -1,0 +1,1 @@
+g++ -o AES_lib.dll -shared AES_lib.cpp -Wl,--subsystem,windows
